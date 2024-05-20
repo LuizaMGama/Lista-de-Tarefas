@@ -1,0 +1,12 @@
+.App {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+div {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
